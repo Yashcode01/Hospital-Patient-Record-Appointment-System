@@ -1,0 +1,4 @@
+1|Sharma|9990001111|Cardiology|Friday,Monday,Wednesday|drsharma|sharma123
+2|Verma|9990002222|Dermatology|Thursday,Tuesday|drverma|verma123
+3|Iyer|9990003333|Pediatrics|Friday,Monday,Thursday,Tuesday,Wednesday|driyer|iyer123
+4|Khan|9990004444|Orthopedics|Saturday,Wednesday|drkhan|khan123
